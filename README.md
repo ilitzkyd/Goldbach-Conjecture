@@ -20,7 +20,7 @@ This program demonstrates the application of **Goldbach's Conjecture** using For
 1. Save the program code in a file named `goldbach.f90`.
 
 2. Compile the code using a Fortran compiler like `gfortran`:
-   ```bash
+```bash
    gfortran -o goldbach goldbach.f90
 ```
 3. Run the compiled program:
